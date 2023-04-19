@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋, My name is Jacob Rivas 
+### My Skills : 
+https://img.shields.io/badge/Python-F09018?style=flat-square&logo=python&logoColor=white
+
 
 <!--
 **JacobFull/JacobFull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
